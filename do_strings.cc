@@ -1,10 +1,4 @@
-/******************************************************************************
- * This file is provided as a part of NIU CSCI 340 Assignment 2. IT IS NOT TO *
- * BE CHANGED. To complete the assignment, please implement the methods that  *
- * are declared here in the file `340list.h`                                  *
- *                                                                            *
- * CHANGES TO THIS FILE WILL RESULT IN A LARGE GRADE PENALTY.                 *
- ******************************************************************************/
+
 
 #include <iostream>
 #include <vector>
@@ -126,4 +120,3 @@ int main(int argc, char *argv[]) {
   return 0;
 
 }
-

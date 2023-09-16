@@ -3,7 +3,7 @@
  * BE CHANGED. To complete the assignment, please implement the methods that  *
  * are declared here in the file `340list.h`                                  *
  *                                                                            *
- * CHANGES TO THIS FILE WILL RESULT IN A LARGE GRADE PENALTY.                 *
+ * CHANGES TO THIS FILE WILL RESULT IN A LARGE GRADE PENALTY.              *
  ******************************************************************************/
 #ifndef NIUCSCI340ASSIGN2_ALGOS_DECL_H
 #define NIUCSCI340ASSIGN2_ALGOS_DECL_H
