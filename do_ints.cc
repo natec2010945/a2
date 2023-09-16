@@ -1,4 +1,3 @@
-
 /******************************************************************************
  * This file is provided as a part of an NIU CSCI 340 Assignment. IT IS NOT   *
  * TO BE CHANGED. To complete the assignment, please put your code in the     *
